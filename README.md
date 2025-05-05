@@ -1,2 +1,2 @@
-# pokedex-lima-web
+# pokedex-lima-webgg
 Aplication of pockdex to desktop
